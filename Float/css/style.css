@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    font-size: 250%;
+}
+
+.container{
+    width: 40%;
+    min-height: 60vh;
+    background-color: rgba(0, 0, 0, 0.315);
+    border-radius: 16px;
+    font-size: 80%;
+}
+.container-1{
+    float: left;
+}
+.container-2{
+    float: right;
+}
+.list{
+    text-align: left;
+    color: white;
+    font-size: 24px;
+}
+.list li{
+    padding:16px
+}
+.container-3{
+    width: 90%;
+    margin: 0 auto;
+    min-height: auto;
+    margin-top: 550px;
+}
+.container-3 p{
+    width: 90%;
+    margin: 0 auto;
+    
+    padding-bottom: 24px;
+    font-size: 60%;
+    color: white;
+    text-align: left;
+}
